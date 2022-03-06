@@ -1,4 +1,5 @@
 package tuan4;
+
 import java.util.Scanner;
 public class customer {
     String Name;
@@ -22,3 +23,4 @@ public class customer {
         System.out.println(" Address :  "+Address);
     }
 }
+
